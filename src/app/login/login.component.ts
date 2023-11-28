@@ -11,7 +11,7 @@ export class LoginComponent implements OnInit {
   // Properties
   // Database
   aim = 'Perfect banking  Partner';
-  usertext = 'Enter your username';
+  usertext = 'Enter your account number';
   accno = '';
   pswd = '';
   // db: any = {
